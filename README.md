@@ -1,7 +1,6 @@
+<!--
 ### Hi there 👋
 
-
-<!--
 **nusnewob/nusnewob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![](https://raw.githubusercontent.com/nusnewob/nusnewob/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/nusnewob/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nusnewob/nusnewob/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/nusnewob/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nusnewob/nusnewob/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/nusnewob/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nusnewob/nusnewob/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/nusnewob/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nusnewob/nusnewob/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/nusnewob/github-profile-summary-cards)
